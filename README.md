@@ -1,6 +1,7 @@
 ## ¡Hola GitHub! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/luma_net?style=social)](https://x.com/luma_net)
+[![Instagram Follow](https://img.shields.io/instagram/follow/luma_net?style=social)](https://instagram.com/luma_net)
 [![GitHub Followers](https://img.shields.io/github/followers/lumanet?style=social)](https://github.com/Lumanet)
 [![GitHub Followers](https://img.shields.io/github/stars/lumanet?style=social)](https://github.com/Lumanet)
 <!--
