@@ -1,5 +1,8 @@
 ## ¡Hola GitHub! 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/luma_net?style=social)](https://twitter.com/luma_net)
+![GitHub Followers](https://img.shields.io/github/followers/lumanet?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/lumanet?style=social)
 <!--
 **Lumanet/lumanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
