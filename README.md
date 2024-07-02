@@ -1,8 +1,15 @@
 # 👋 ¡Hola! Soy Marcos
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/luma_net?style=social)](https://x.com/luma_net)
 [![GitHub Followers](https://img.shields.io/github/followers/lumanet?style=social)](https://github.com/Lumanet)
 [![GitHub Stars](https://img.shields.io/github/stars/lumanet?style=social)](https://github.com/Lumanet)
+
+### Contacto
+
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/luma_net)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luma_net)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com/user/lumanet)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirluamark@gmail.com)
+
 
 ### Sobre mí
 
