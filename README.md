@@ -51,8 +51,8 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 
 ### Estadísticas de GitHub
 
-<div align="center">
-  <table style="width:100%; border-collapse:collapse; border:none;">
+<div align="left">
+  <table style="width:100%; border-collapse:collapse; border:none;" cellspacing="0" cellpadding="0">
     <tr>
       <td colspan="2" style="border:none;">
         <a href="https://github.com/Lumanet">
