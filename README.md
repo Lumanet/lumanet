@@ -55,7 +55,7 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
   <a href="https://github.com/Lumanet">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumanet&theme=algolia&locale=es" style="width: 100%;" alt="Graph of Commits" />
   </a>
-  <table style="width: 100%; border-collapse: collapse; border: none; table-layout: fixed;">
+  <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr>
       <td style="width: 60%; vertical-align: top; border: none;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumanet&theme=algolia&locale=es" style="width: 100%;" alt="Stats" />
@@ -66,7 +66,6 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
     </tr>
   </table>
 </div>
-
 
 ### 🌱 Actualmente Aprendiendo
 
