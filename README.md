@@ -52,7 +52,7 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 ### Estadísticas de GitHub
 
 <div align="center">
-  <table style="width:100%; border-collapse:collapse; border:none !important;">
+  <table style="width:100%; border-collapse:collapse; border:none;">
     <tr>
       <td colspan="2" style="border:none;">
         <a href="https://github.com/Lumanet">
@@ -66,7 +66,7 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumanet&theme=algolia&locale=es" style="width:100%;" alt="Stats" />
         </a>
       </td>
-      <td style="width:40%; border:none;">
+      <td style="width:40%; border:none;" valign="top">
         <a href="https://github.com/Lumanet">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumanet&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=es" style="width:100%;" alt="Most used languages" />
         </a>
