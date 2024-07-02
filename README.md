@@ -73,8 +73,6 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
   </div>
 </div>
 
-
-
 ### 🌱 Actualmente Aprendiendo
 
 Python y otras tecnologías emergentes para mejorar mis habilidades y conocimientos en el desarrollo web.
