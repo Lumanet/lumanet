@@ -52,24 +52,17 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 ### Estadísticas de GitHub
 
 <div align="left">
-  <div style="width: 100%;">
-    <a href="https://github.com/Lumanet">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumanet&theme=algolia&locale=es" style="width: 100%;" alt="Graph of Commits" />
-    </a>
-  </div>
-  <div style="width: 100%; display: table; margin-top: 10px;">
-    <div style="display: table-cell; width: 60%;">
-      <a href="https://github.com/Lumanet">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumanet&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=es" style="width: 100%;" alt="Most used languages" />
-      </a>
-    </div>
-    <div style="display: table-cell; width: 40%; vertical-align: top;">
-      <a href="https://github.com/Lumanet">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumanet&theme=algolia&locale=es" style="width: 100%;" alt="Stats" />
-      </a>
-    </div>
-  </div>
+  <a href="https://github.com/Lumanet">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumanet&theme=algolia&locale=es" style="width: 100%;" alt="Graph of Commits" />
+  </a>
+  <a href="https://github.com/Lumanet" style="display: inline-block; width: 60%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumanet&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=es" style="width: 100%;" alt="Most used languages" />
+  </a>
+  <a href="https://github.com/Lumanet" style="display: inline-block; width: 40%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumanet&theme=algolia&locale=es" style="width: 100%;" alt="Stats" />
+  </a>
 </div>
+
 
 ### 🌱 Actualmente Aprendiendo
 
