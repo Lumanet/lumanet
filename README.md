@@ -54,18 +54,19 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 <div align="left">
   <a href="https://github.com/Lumanet">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumanet&theme=algolia&locale=es" style="width: 100%;" alt="Graph of Commits" />
-    <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr>
-        <td style="width: 60%; vertical-align: top;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumanet&theme=algolia&locale=es" style="width: 100%;" alt="Stats" />
-        </td>
-        <td style="width: 40%; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumanet&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=es" style="width: 100%;" alt="Most used languages" />
-        </td>
-    </tr>
-    </table>
   </a>
+  <table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr>
+      <td style="width: 60%; vertical-align: top; border: none;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumanet&theme=algolia&locale=es" style="width: 100%;" alt="Stats" />
+      </td>
+      <td style="width: 40%; vertical-align: top; border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumanet&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=es" style="width: 100%;" alt="Most used languages" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ### 🌱 Actualmente Aprendiendo
 
