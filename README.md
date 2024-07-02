@@ -53,10 +53,18 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 
 <div align="center">
   <a href="https://github.com/Lumanet">
+    <table style="border:0" width="100%">
+        <tr>
+            <td>
     <!-- Graph of Commits -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumanet&theme=algolia&locale=es" height="210em" alt="Graph of Commits" />
+            </td>
+            <td>
     <!-- Streak Counter -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lumanet&theme=algolia&hide_border=true&fire=DD2727&locale=es" height="250em" alt="Streak Counter" />
+            </td>
+        </tr>
+    </table>
     <!-- Most Used Languages -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumanet&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=es" height="320em" alt="Most used languages" />
     <!-- Stats -->
