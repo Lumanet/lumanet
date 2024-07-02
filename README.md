@@ -52,25 +52,42 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 ### Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/Lumanet">
-    <table style="border:0" width="100%">
-        <tr>
+  <table style="width:100%; border:none; border-spacing:0;">
+    <tr>
+      <td colspan="2">
+        <a href="https://github.com/Lumanet">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumanet&theme=algolia&locale=es" style="width:100%;" alt="Graph of Commits" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:60%;">
+        <a href="https://github.com/Lumanet">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumanet&theme=algolia&hide_border=true&fire=DD2727&locale=es" style="width:100%;" alt="Streak Counter" />
+        </a>
+      </td>
+      <td style="width:40%;">
+        <table style="width:100%; border:none; border-spacing:0;">
+          <tr>
             <td>
-    <!-- Graph of Commits -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumanet&theme=algolia&locale=es" height="210em" alt="Graph of Commits" />
+              <a href="https://github.com/Lumanet">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumanet&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=es" style="width:100%;" alt="Most used languages" />
+              </a>
             </td>
+          </tr>
+          <tr>
             <td>
-    <!-- Streak Counter -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lumanet&theme=algolia&hide_border=true&fire=DD2727&locale=es" height="250em" alt="Streak Counter" />
+              <a href="https://github.com/Lumanet">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumanet&theme=algolia&locale=es" style="width:100%;" alt="Stats" />
+              </a>
             </td>
-        </tr>
-    </table>
-    <!-- Most Used Languages -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumanet&color=0e75b6&style=flat&theme=algolia&hide_border=true&locale=es" height="320em" alt="Most used languages" />
-    <!-- Stats -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumanet&theme=algolia&locale=es" height="210em" alt="Stats" />
-  </a>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ### 🌱 Actualmente Aprendiendo
 
