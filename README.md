@@ -28,20 +28,22 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
-![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?logo=filezilla&logoColor=white)
 ![MAMP](https://img.shields.io/badge/-MAMP-0270BE?logo=mamp&logoColor=white)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FF6C2C?logo=cpanel&logoColor=white)
 ![Warp](https://img.shields.io/badge/-Warp-339933?logo=warp&logoColor=white)
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white)
+
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?logo=home-assistant&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A95C?logo=openai&logoColor=white)
 ![Raycast](https://img.shields.io/badge/-Raycast-FF7272?logo=raycast&logoColor=white)
-
 
 ### Proyectos Destacados
 
