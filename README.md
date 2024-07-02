@@ -3,7 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/lumanet?style=social)](https://github.com/Lumanet)
 [![GitHub Stars](https://img.shields.io/github/stars/lumanet?style=social)](https://github.com/Lumanet)
 
-### Contacto
+### Contacto y RRSS
 
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/luma_net)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luma_net)
