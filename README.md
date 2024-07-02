@@ -51,6 +51,30 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 
 ### Estadísticas de GitHub
 
+<div align="center">
+  <a href="https://github.com/Lumanet">
+    <!-- Trophies -->
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Lumanet&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
+    <!-- Streak Counter -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lumanet&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
+    <!-- Most Used Languages -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lumanet&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
+    <!-- Contributor Stats -->
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Lumanet&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
+    <!-- Stats -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumanet&theme=2077" height="210em" alt="Stats" />
+    <!-- Top languages by commit -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lumanet&theme=2077" height="210em" alt="Top languages by commit" />
+    <!-- Top languages by repo -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lumanet&theme=2077" height="210em" alt="Top languages by repo" />
+    <!-- Histogram of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lumanet&theme=2077" height="210em" alt="Histogram of Commits" />
+    <!-- Graph of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumanet&theme=2077" height="210em" alt="Graph of Commits" />
+  </a>
+</div>
+
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lumanet&show_icons=true&theme=radical)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=lumanet&layout=compact&theme=radical)
 
