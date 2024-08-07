@@ -16,6 +16,7 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 
 ### Tecnologías y Herramientas
 
+#### Lenguajes de Programación y Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
@@ -24,28 +25,32 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 
+#### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 
+#### Herramientas de Desarrollo
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?logo=filezilla&logoColor=white)
 ![MAMP](https://img.shields.io/badge/-MAMP-0270BE?logo=mamp&logoColor=white)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FF6C2C?logo=cpanel&logoColor=white)
 ![Warp](https://img.shields.io/badge/-Warp-339933?logo=warp&logoColor=white)
 
+#### Diseño y Edición
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white)
 
+#### Productividad y Otros
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?logo=home-assistant&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A95C?logo=openai&logoColor=white)
 ![Raycast](https://img.shields.io/badge/-Raycast-FF7272?logo=raycast&logoColor=white)
+
 
 ### Proyectos Destacados
 
