@@ -55,6 +55,7 @@ Soy un desarrollador web especializado con una pasión por el código limpio y l
 ### Proyectos Destacados
 
 1. **[Viernes Gastronómicos](https://www.viernesgastronomicos.com/):** Desde su fundación en 2012, Viernes Gastronómicos es una guía culinaria en Valencia que destaca los mejores locales, eventos gastronómicos y recetas.
+2. **[Pádel Al Revés](https://es.padelalreves.com/):** Pádel Al Revés es la plataforma que conecta a jugadores, clubs, organizadores y marcas, ofreciendo contenido, torneos y análisis para que vivas el pádel al máximo.
 
 ### Estadísticas de GitHub
 
