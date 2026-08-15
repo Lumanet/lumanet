@@ -89,13 +89,13 @@ Para mí no sustituye el criterio, lo acelera. Y cuando está bien integrada, se
 
 ### [Pádel Al Revés](https://es.padelalreves.com/)
 
-[![](https://img.shields.io/badge/🌐%20es.padelalreves.com-0066cc?style=flat-square)](https://es.padelalreves.com/)
+<a href="https://es.padelalreves.com/"><img src="card-par.svg" alt="Pádel Al Revés" width="100%"/></a>
 
 Un proyecto digital dentro del mundo del pádel donde mezclo desarrollo, contenido, comunicación, diseño y estrategia. La idea es conectar jugadores, clubs, organizadores y marcas con contenido útil, actual y bien trabajado.
 
 ### [Viernes Gastronómicos](https://www.viernesgastronomicos.com/)
 
-[![](https://img.shields.io/badge/🌐%20viernesgastronomicos.com-2d6a4f?style=flat-square)](https://www.viernesgastronomicos.com/)
+<a href="https://www.viernesgastronomicos.com/"><img src="card-vg.svg" alt="Viernes Gastronómicos" width="100%"/></a>
 
 Un proyecto gastronómico con muchos años de recorrido, centrado en descubrir restaurantes, experiencias y sitios que merecen la pena. Mucho de lo que hago aquí también tiene que ver con contar bien las cosas, no solo con enseñarlas.
 
