@@ -1,0 +1,22 @@
+<svg width="900" height="130" viewBox="0 0 900 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="130" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="130" rx="10" fill="url(#bg)"/>
+  <rect width="4" height="130" rx="2" fill="#3b82f6"/>
+  <circle cx="830" cy="28" r="3" fill="#3b82f6" opacity="0.6"/>
+  <circle cx="850" cy="28" r="3" fill="#3b82f6" opacity="0.4"/>
+  <circle cx="870" cy="28" r="3" fill="#3b82f6" opacity="0.2"/>
+  <circle cx="830" cy="48" r="3" fill="#3b82f6" opacity="0.4"/>
+  <circle cx="850" cy="48" r="3" fill="#3b82f6" opacity="0.6"/>
+  <circle cx="870" cy="48" r="3" fill="#3b82f6" opacity="0.4"/>
+  <circle cx="830" cy="68" r="3" fill="#3b82f6" opacity="0.2"/>
+  <circle cx="850" cy="68" r="3" fill="#3b82f6" opacity="0.4"/>
+  <circle cx="870" cy="68" r="3" fill="#3b82f6" opacity="0.6"/>
+  <text x="30" y="58" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="36" font-weight="700" fill="#f1f5f9">Marcos Robles</text>
+  <text x="33" y="83" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#64748b">@lumanet</text>
+  <text x="30" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8" letter-spacing="0.5">Desarrollo  ·  Diseño  ·  Automatización  ·  IA</text>
+</svg>

@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="Marcos Robles — Lumanet" width="100%"/>
+
 # 👋 Hola, soy Marcos
 
 No me limito a hacer webs. Me gusta crear proyectos digitales con sentido, darles forma, hacer que funcionen y, si además quedan bien, mejor todavía.
@@ -12,6 +14,8 @@ Me muevo entre el desarrollo web, el diseño, el contenido, la automatización y
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lumanet?si=6b8a09a1c26a46f2)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirluamark@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/lumanet?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/Lumanet)
+
+![](https://komarev.com/ghpvc/?username=lumanet&style=flat-square&color=586069&label=visitas+al+perfil)
 
 ## 📊 GitHub Stats
 
@@ -31,6 +35,14 @@ Desarrollo soluciones web, doy forma a ideas digitales y trabajo proyectos donde
 - **automatización e IA** — integradas con sentido, no como adorno
 
 Me gusta construir cosas que no se queden en "queda bonito", sino que sirvan, comuniquen y resuelvan algo. Soy bastante de tocar todas las piezas del proceso: pensar, estructurar, diseñar, desarrollar, probar, corregir y volver a tocar porque siempre hay algo que se puede dejar más fino. Sí, el perfeccionismo a veces hace horas extra.
+
+## 🤖 Cómo encaja la IA en mi forma de trabajar
+
+No uso la IA como adorno ni como pegatina moderna para parecer más 2026.
+
+La uso para pensar mejor, arrancar más rápido, desbloquear ideas, documentar, revisar, prototipar, estructurar contenidos, mejorar procesos y quitarme de encima tareas repetitivas que aportan poco.
+
+Para mí no sustituye el criterio, lo acelera. Y cuando está bien integrada, se nota. Cuando no, también, y bastante.
 
 ## 🛠 Con qué trabajo
 
@@ -73,20 +85,18 @@ Me gusta construir cosas que no se queden en "queda bonito", sino que sirvan, co
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=home-assistant&logoColor=white)
 ![Raycast](https://img.shields.io/badge/Raycast-FF6363?logo=raycast&logoColor=white)
 
-## 🤖 Cómo encaja la IA en mi forma de trabajar
-
-No uso la IA como adorno ni como pegatina moderna para parecer más 2026.
-
-La uso para pensar mejor, arrancar más rápido, desbloquear ideas, documentar, revisar, prototipar, estructurar contenidos, mejorar procesos y quitarme de encima tareas repetitivas que aportan poco.
-
-Para mí no sustituye el criterio, lo acelera. Y cuando está bien integrada, se nota. Cuando no, también, y bastante.
-
 ## 🚀 Proyectos que hablan bastante de mí
 
 ### [Pádel Al Revés](https://es.padelalreves.com/)
+
+[![](https://img.shields.io/badge/🌐%20es.padelalreves.com-0066cc?style=flat-square)](https://es.padelalreves.com/)
+
 Un proyecto digital dentro del mundo del pádel donde mezclo desarrollo, contenido, comunicación, diseño y estrategia. La idea es conectar jugadores, clubs, organizadores y marcas con contenido útil, actual y bien trabajado.
 
 ### [Viernes Gastronómicos](https://www.viernesgastronomicos.com/)
+
+[![](https://img.shields.io/badge/🌐%20viernesgastronomicos.com-2d6a4f?style=flat-square)](https://www.viernesgastronomicos.com/)
+
 Un proyecto gastronómico con muchos años de recorrido, centrado en descubrir restaurantes, experiencias y sitios que merecen la pena. Mucho de lo que hago aquí también tiene que ver con contar bien las cosas, no solo con enseñarlas.
 
 ## 🌱 Ahora mismo estoy con
