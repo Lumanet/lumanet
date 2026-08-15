@@ -16,19 +16,6 @@ Me muevo entre el desarrollo web, el diseño, el contenido, la automatización y
 ## 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lumanet&show_icons=true&hide_border=true&theme=dark&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lumanet&show_icons=true&hide_border=true&theme=default&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api?username=lumanet&show_icons=true&hide_border=true&rank_icon=github" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lumanet&layout=compact&hide_border=true&theme=dark&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lumanet&layout=compact&hide_border=true&theme=default&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumanet&layout=compact&hide_border=true&langs_count=8" height="165">
-</picture>
-
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lumanet&hide_border=true&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lumanet&hide_border=true&theme=default">
   <img src="https://streak-stats.demolab.com/?user=lumanet&hide_border=true">
