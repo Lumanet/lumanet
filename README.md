@@ -2,9 +2,7 @@
 
 # 👋 Hola, soy Marcos
 
-No me limito a hacer webs. Me gusta crear proyectos digitales con sentido, darles forma, hacer que funcionen y, si además quedan bien, mejor todavía.
-
-Me muevo entre el desarrollo web, el diseño, el contenido, la automatización y la inteligencia artificial aplicada al trabajo real. Vamos, que me gusta tanto pelearme con una línea de código como afinar un texto, montar una idea o encontrar la forma de hacer algo más útil, más limpio o más rápido.
+Creo proyectos digitales con sentido: que funcionen, que comuniquen y que resuelvan algo.
 
 ## 🌐 Contacto y redes
 
@@ -105,3 +103,7 @@ Un proyecto gastronómico con muchos años de recorrido, centrado en descubrir r
 - automatización de procesos
 - flujos de trabajo más inteligentes con IA
 - herramientas que mezclen productividad, creatividad y desarrollo
+
+---
+
+¿Tienes un proyecto en mente? [Escríbeme](mailto:sirluamark@gmail.com) o conéctame en [LinkedIn](https://linkedin.com/in/marcosroblesherrero).
