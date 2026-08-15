@@ -4,27 +4,46 @@ No me limito a hacer webs. Me gusta crear proyectos digitales con sentido, darle
 
 Me muevo entre el desarrollo web, el diseño, el contenido, la automatización y la inteligencia artificial aplicada al trabajo real. Vamos, que me gusta tanto pelearme con una línea de código como afinar un texto, montar una idea o encontrar la forma de hacer algo más útil, más limpio o más rápido.
 
-[![GitHub Followers](https://img.shields.io/github/followers/lumanet?style=social)](https://github.com/Lumanet)
-
 ## 🌐 Contacto y redes
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/luma_net)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luma_net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosroblesherrero)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lumanet?si=6b8a09a1c26a46f2)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirluamark@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/lumanet?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/Lumanet)
 
-## 🧠 Qué hago
+## 📊 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lumanet&show_icons=true&hide_border=true&theme=dark&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lumanet&show_icons=true&hide_border=true&theme=default&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?username=lumanet&show_icons=true&hide_border=true&rank_icon=github" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lumanet&layout=compact&hide_border=true&theme=dark&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lumanet&layout=compact&hide_border=true&theme=default&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumanet&layout=compact&hide_border=true&langs_count=8" height="165">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lumanet&hide_border=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lumanet&hide_border=true&theme=default">
+  <img src="https://streak-stats.demolab.com/?user=lumanet&hide_border=true">
+</picture>
+
+## 🧠 Qué hago y en qué pongo el foco
 
 Desarrollo soluciones web, doy forma a ideas digitales y trabajo proyectos donde se cruzan varias cosas que me interesan de verdad:
 
-- código
-- estrategia digital
-- diseño
-- contenido
-- automatización
-- IA aplicada al día a día
+- **código** — desde la estructura hasta el detalle
+- **estrategia digital** — con perspectiva de producto
+- **diseño y contenido** — porque forman parte del producto
+- **automatización e IA** — integradas con sentido, no como adorno
 
-Me gusta construir cosas que no se queden en “queda bonito”, sino que sirvan, comuniquen y resuelvan algo. Soy bastante de tocar todas las piezas del proceso: pensar, estructurar, diseñar, desarrollar, probar, corregir y volver a tocar porque siempre hay algo que se puede dejar más fino. Sí, el perfeccionismo a veces hace horas extra.
+Me gusta construir cosas que no se queden en "queda bonito", sino que sirvan, comuniquen y resuelvan algo. Soy bastante de tocar todas las piezas del proceso: pensar, estructurar, diseñar, desarrollar, probar, corregir y volver a tocar porque siempre hay algo que se puede dejar más fino. Sí, el perfeccionismo a veces hace horas extra.
 
 ## 🛠 Con qué trabajo
 
@@ -49,7 +68,6 @@ Me gusta construir cosas que no se queden en “queda bonito”, sino que sirvan
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?logo=google-analytics&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white)
-![MAMP](https://img.shields.io/badge/MAMP-0270BE?logo=mamp&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
 ![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=white)
 
@@ -61,6 +79,7 @@ Me gusta construir cosas que no se queden en “queda bonito”, sino que sirvan
 ![Filmora](https://img.shields.io/badge/Filmora-00B140?logo=wondershare&logoColor=white)
 
 ### IA, productividad y otros
+![Claude](https://img.shields.io/badge/Claude-D97706?logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google-gemini&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
@@ -89,17 +108,3 @@ Un proyecto gastronómico con muchos años de recorrido, centrado en descubrir r
 - automatización de procesos
 - flujos de trabajo más inteligentes con IA
 - herramientas que mezclen productividad, creatividad y desarrollo
-
-## 🎯 En qué suelo poner el foco
-
-- desarrollo web con utilidad real
-- proyectos propios con identidad
-- automatización para trabajar mejor
-- diseño y contenido como parte del producto
-- tecnología aplicada con sentido común
-
-## 📌 En resumen
-
-Me gustan los proyectos que tienen una idea detrás, los sistemas que ahorran tiempo, las herramientas que de verdad ayudan y las soluciones que combinan cabeza, detalle y utilidad.
-
-Y sí, también me gusta tocar demasiadas cosas a la vez. Pero de momento me sigue funcionando.
