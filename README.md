@@ -97,6 +97,12 @@ Un proyecto digital dentro del mundo del pádel donde mezclo desarrollo, conteni
 
 Un proyecto gastronómico con muchos años de recorrido, centrado en descubrir restaurantes, experiencias y sitios que merecen la pena. Mucho de lo que hago aquí también tiene que ver con contar bien las cosas, no solo con enseñarlas.
 
+### [VisualCodes](https://visualcodes.es/)
+
+<a href="https://visualcodes.es/"><img src="card-visualcodes.svg" alt="VisualCodes" width="100%"/></a>
+
+Biblioteca bilingüe (ES/EN) de shortcodes visuales de prompt: catálogo filtrable, ficha de detalle con imagen de ejemplo, constructor de combinaciones con acceso directo a cada herramienta IA, favoritos y colecciones. Registro de usuarios con aprobación manual y panel de administración completo.
+
 ## 🌱 Ahora mismo estoy con
 
 - Python y nuevas formas de integrarlo en proyectos reales
